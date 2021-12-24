@@ -6,7 +6,6 @@
 [![Based icon]][Based]
 [![Viewers icon]][Viewers]
 [![Followers icon]][Followers]     
-[![Ethereum icon]][Ethereum]
 
 [Projects]: https://github.com/Tranqi?tab=repositories
 [Based]: https://img.shields.io/badge/Based-Very-9080c2  
