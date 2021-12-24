@@ -1,6 +1,6 @@
 <div align="center">
 
-# RemainingToast :rocket:
+# Tranqi :rocket:
 
 [![Projects icon]][Projects]
 [![Based icon]][Based]
