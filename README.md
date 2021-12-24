@@ -22,7 +22,7 @@
 ## Notable Projects
 ###### *No particular order*
 
-**[name](link)** - description        
+**[WhiteChapel](https://discord.gg/k76pETc4aa)** - Fivem Roleplay Server      
 
   
 ###### Header
